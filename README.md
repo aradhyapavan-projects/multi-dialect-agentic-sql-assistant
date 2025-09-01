@@ -132,7 +132,6 @@ SQL Assistant is an **Agentic AI-powered** web application that revolutionizes d
 ## 🚀 Future Enhancements
 
 ### **Advanced AI Features**
-- **Query Explanation**: Detailed breakdown of generated SQL queries
 - **Performance Optimization**: AI-powered query performance suggestions
 - **Auto-Completion**: Intelligent suggestions while typing natural language queries
 - **Query History**: Learn from user patterns to improve suggestions
@@ -141,4 +140,5 @@ SQL Assistant is an **Agentic AI-powered** web application that revolutionizes d
 - **SLM & Local AI Support**: Small Language Models compatible with Ollama, Msty, Jan.ai, LM Studio, Llama.cpp and other local AI platforms
 
 ---
+
 
