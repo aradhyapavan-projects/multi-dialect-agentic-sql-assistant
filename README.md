@@ -83,7 +83,8 @@ SQL Assistant is an **Agentic AI-powered** web application that revolutionizes d
 ![SQLite Query](Snapshots/7.Generated_&_Executed_SqlLite_Query.png)
 
 ### MySQL Query with Order of Execution
-![MySQL Query](Snapshots/8.Mysql_Query_With_Order_of_Execution.png)
+![Amazon Aurora Query](Snapshots/12.Amazon_Aurora_Query_With_Order_of_Execution.png)
+
 
 ### PostgreSQL Query with Order of Execution
 ![PostgreSQL Query](Snapshots/9.Postgres_Query_With_Order_of_Execution.png)
@@ -95,7 +96,7 @@ SQL Assistant is an **Agentic AI-powered** web application that revolutionizes d
 ![SQL Server Query](Snapshots/11.SqlServer_Query_With_Order_of_Execution.png)
 
 ### Amazon Aurora Query with Order of Execution
-![Amazon Aurora Query](Snapshots/12.Amazon_Aurora_Query_With_Order_of_Execution.png)
+![MySQL Query](Snapshots/8.Mysql_Query_With_Order_of_Execution.png)
 
 ## 🎯 Problems Solved
 
@@ -140,5 +141,6 @@ SQL Assistant is an **Agentic AI-powered** web application that revolutionizes d
 - **SLM & Local AI Support**: Small Language Models compatible with Ollama, Msty, Jan.ai, LM Studio, Llama.cpp and other local AI platforms
 
 ---
+
 
 
